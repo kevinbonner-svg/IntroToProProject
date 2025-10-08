@@ -1,0 +1,25 @@
+Design Brief
+
+Reach and objective
+
+Intention
+
+  Give the player a goal to achieve
+
+  Coerce the player to traverse the level
+
+  Give the player a visual indicator to move towards
+
+Technical Spec
+
+	Visually represented
+
+		Diamond shaped
+	
+  Notice player collision
+
+  Animated visual (maybe rotation or eased bouncing)
+
+	On collision the visual disappears
+
+Notify the game mode that something has change
